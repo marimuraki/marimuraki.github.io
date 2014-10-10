@@ -56,7 +56,7 @@ table {
 
 body {
   background: #4e4e56;
-  color: #dcd0c0;
+  color: #b1938b;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -198,7 +198,7 @@ h4 {
 }
 
 h5 {
-  color: #da635d;
+  color: #4e4e56;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
