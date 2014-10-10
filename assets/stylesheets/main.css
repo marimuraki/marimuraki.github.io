@@ -55,8 +55,8 @@ table {
 */
 
 body {
-  background: #293f50;
-  color: #888;
+  background: #4e4e56;
+  color: #dcd0c0;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -68,7 +68,7 @@ body {
 */
 
 a {
-  color: #648880;
+  color: #da635d;
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ p a {
 */
 
 .logo {
-  border-top: 4px solid #648880;
+  border-top: 4px solid #da635d;
   float: left;
   font-size: 48px;
   font-weight: 100;
@@ -172,7 +172,7 @@ p a {
 */
 
 h1, h2, h3, h4 {
-  color: #648880;
+  color: #da635d;
 }
 
 h1, h3, h4, h5, p {
@@ -198,7 +198,7 @@ h4 {
 }
 
 h5 {
-  color: #a9b2b9;
+  color: #da635d;
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
@@ -237,7 +237,7 @@ em {
 
 .btn-alt:hover {
   background: #fff;
-  color: #648880;
+  color: #da635d;
 }
 
 /*
@@ -247,7 +247,7 @@ em {
 */
 
 .logo {
-  border-top: 4px solid #648880;
+  border-top: 4px solid #da635d;
   float: left;
   padding: 40px 0 22px 0;
 }
@@ -258,7 +258,7 @@ em {
 }
 
 .primary-footer {
-  color: #648880;
+  color: #da635d;
   font-size: 14px;
   padding-bottom: 44px;
   padding-top: 44px;
@@ -276,7 +276,7 @@ em {
 
 .primary-header a:hover,
 .primary-footer a:hover {
-  color: #648880;
+  color: #da635d;
 }
 
 /*
@@ -319,7 +319,7 @@ em {
 }
 
 .topic a:hover h3 {
-  color: #a9b2b9;
+  color: #da635d;
 }
 
 /*
