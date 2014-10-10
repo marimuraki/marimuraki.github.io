@@ -115,6 +115,21 @@ cite, em {
   font-weight: 400;
 }
 
+.inspire {
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+}
+.inspire h2 {
+  font-size: 36px;
+}
+.inspire p {
+  font-size: 24px;
+}
+
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
+
 /*
   ========================================
   Links
